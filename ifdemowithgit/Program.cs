@@ -16,6 +16,10 @@ namespace ifdemowithgit
                 Console.WriteLine("I as expected");
 
             }
+            else
+            {
+                console.writeLine("Not expected");
+            }
         }
     }
 }
