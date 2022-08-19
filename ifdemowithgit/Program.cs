@@ -10,6 +10,16 @@ namespace ifdemowithgit
     {
         static void Main(string[] args)
         {
+            int i = 10;
+            if (i==10)
+            {
+                Console.WriteLine("I as expected");
+
+            }
+            else
+            {
+                Console.WriteLine("Not expected");
+            }
         }
     }
 }
